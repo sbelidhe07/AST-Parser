@@ -1,2 +1,2 @@
 # AST-Parser
-AST Parser to confirm rules associated with React JSX Templates
+AST Parser to confirm rules towards the JSX elements associated with React Templates
